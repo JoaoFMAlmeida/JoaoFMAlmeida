@@ -24,6 +24,6 @@
 
 - ### Minhas Estatísticas 📊
 
-  ![João Almeida estatíscas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoFMAlmeida&show_icons=true&theme=radical)
+  ![João Almeida Github stats](https://github-readme-stats.vercel.app/api?username=JoaoFMAlmeida&show_icons=true&theme=dracula)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFMAlmeida&layout=compact&langs_count=7&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFMAlmeida&layout=compact&langs_count=7&theme=dracula)
