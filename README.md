@@ -1,9 +1,7 @@
 ## Olá! Sou João e este é o meu repositório 👋
 
 - ### Sobre mim 👨
-  - Cursando Sistemas de Informação;
-  - Apaixonado por Front-End;
-
+  - Designer apaixonado por tecnologia;
 
 - ### Tecnologias de uso 🖥️
 
